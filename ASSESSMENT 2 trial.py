@@ -1,7 +1,8 @@
 print("*********************************")
-print("Welcome to Vending Machine Bravo!")
+print("Welcome to Vending Machine!")
 print("*********************************")
-print("If you would like to make a selection, please insert the appropriate currency into the machine.")
+print("If you would like to buy a snack and a drink, please insert the appropriate amount into the vending machine.")
+
 1
 
 class VendingMachine:
